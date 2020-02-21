@@ -1,0 +1,16 @@
+{
+    "name": "@ionlu/game-2017-common",
+    "version": "1.0.0",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/IONlu/game-2017.git"
+    },
+    "author": "Daniel Duton <daniel@duton.lu>",
+    "license": "MIT",
+    "dependencies": {
+        "chance": "^1.1.4",
+        "matter-js": "^0.14.2",
+        "simplex-noise": "^2.4.0"
+    }
+}

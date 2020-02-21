@@ -1,0 +1,20 @@
+{
+    "name": "@ionlu/game-2017-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/server.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/IONlu/game-2017.git"
+    },
+    "author": "Daniel Duton <daniel@duton.lu>",
+    "license": "MIT",
+    "dependencies": {
+        "@geckos.io/server": "^1.3.0-alpha.0",
+        "@ionlu/game-2017-client": "^0.1.0",
+        "cors": "^2.8.5",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "pino": "^5.16.0"
+    }
+}

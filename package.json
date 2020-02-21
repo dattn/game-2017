@@ -1,0 +1,7 @@
+{
+    "name": "@ionlu/game-2017-dev",
+    "private": true,
+    "devDependencies": {
+        "lerna": "^3.20.2"
+    }
+}
